@@ -1,0 +1,40 @@
+{
+  "name": "seam",
+  "description": "Attach JS behavior to your HTML in a universal with declarative binding",
+  "version": "0.0.1",
+  "homepage": "https://github.com/flams/seam",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://raw.github.com/flams/seam/master/LICENSE"
+    }
+  ],
+  "files": [
+    "LICENSE",
+    "index.js"
+  ],
+  "author": "Olivier Scherrer <pode.fr@gmail.com>",
+  "keywords": [
+    "html",
+    "behavior",
+    "plugin",
+    "binding",
+    "template",
+    "declarative"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:flams/seam.git"
+  },
+  "bugs": {
+    "url": "https://github.com/flams/seam/issues"
+  },
+  "scripts": {
+    "test": "jasmine-node test/"
+  },
+  "main": "index.js",
+  "devDependencies": {
+  },
+  "dependencies": {
+  }
+}
