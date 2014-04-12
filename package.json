@@ -1,7 +1,7 @@
 {
   "name": "seam",
   "description": "Seam binds your JS logic to the DOM by adding configuration to the markup.",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "homepage": "https://github.com/flams/seam",
   "licenses": [
     {
