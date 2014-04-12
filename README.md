@@ -19,7 +19,7 @@ Require seam:
 var Seam = require("seam");
 ```
 
-
+doc is coming
 
 LICENSE
 =======
