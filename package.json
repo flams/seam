@@ -1,6 +1,6 @@
 {
   "name": "seam",
-  "description": "Attach JS behavior to your HTML in a universal with declarative binding",
+  "description": "Attach JS behavior to your HTML in a universal way with declarative binding",
   "version": "0.0.1",
   "homepage": "https://github.com/flams/seam",
   "licenses": [
@@ -34,7 +34,13 @@
   },
   "main": "index.js",
   "devDependencies": {
+    "jasmine-node": "~1.14.3",
+    "quick-dom": "0.0.1"
   },
   "dependencies": {
+    "to-array": "~0.1.4",
+    "simple-loop": "0.0.2",
+    "get-nodes": "0.0.1",
+    "get-dataset": "0.0.1"
   }
 }
