@@ -205,6 +205,11 @@ Or we can call multiple plugins on the same DOM element
 	<p data-plugin1="method: param1, param2" data-plugin2="method1: param1, param2; method2, param1, param2"></p>
 ```
 
+Available plugins
+=================
+
+ - [Data-binding](https://github.com/flams/data-binding-plugin) one of the most powerful two-way data-binding available, with virtualization
+
 LICENSE
 =======
 
